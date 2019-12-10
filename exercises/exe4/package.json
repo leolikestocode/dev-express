@@ -1,19 +1,16 @@
 {
-  "name": "expressjs",
+  "name": "exe4",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "test": "nodemon"
+    "start": "nodemon"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^3.0.1",
     "express": "^4.17.1",
-    "express-handlebars": "^3.0.2",
-    "mongoose": "^5.7.14",
     "nodemon": "^2.0.1",
     "pug": "^2.0.4"
   }
